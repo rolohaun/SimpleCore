@@ -11,7 +11,7 @@ Features:
 - Triple independant Z motors
 - Fully enclosable design
 
-BOM (Work in progress!)
+BOM for 200x200 Build area (Work in progress!)
 https://docs.google.com/spreadsheets/d/1O3hkrCF_OMRDucAhxMPro0IfUh7aCPbqEiQB7Yf0kRw/edit#gid=0
 
 Find it on Youtube
