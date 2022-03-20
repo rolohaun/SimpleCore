@@ -16,3 +16,6 @@ https://docs.google.com/spreadsheets/d/1O3hkrCF_OMRDucAhxMPro0IfUh7aCPbqEiQB7Yf0
 
 Find it on Youtube
 https://www.youtube.com/watch?v=aPkX0bcwmN4
+
+Support me on Patreon
+https://www.patreon.com/rolohaun
