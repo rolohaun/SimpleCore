@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![alt text](https://github.com/rolohaun/SimpleCore/Preview.png?raw=true)
+=======
+![alt text](https://github.com/rolohaun/simplecore/Preview.png?raw=true)
+>>>>>>> c3e8c6e777aabdce6750a0cdc52ca835da642933
 
 Welcome to the DIY 3D Printer called SimpleCore!
 
