@@ -1,5 +1,5 @@
 ![Screenshot](https://github.com/rolohaun/SimpleCore/blob/main/Images/Preview.png)
-<img src="Images/Preview.png" alt="My cool logo"/>
+![alt text](https://github.com/rolohaun/SimpleCore/blob/main/Images/Preview.png?raw=true)
 
 Welcome to the DIY 3D Printer called SimpleCore!
 
