@@ -1,4 +1,4 @@
-![preview](/SimpleCore/Preview.png?raw=true)
+![Screenshot](Preview.png)
 
 Welcome to the DIY 3D Printer called SimpleCore!
 
