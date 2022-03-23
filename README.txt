@@ -1,4 +1,4 @@
-![preview](https://github.com/rolohaun/SimpleCore/Preview.png?raw=true)
+![preview](/SimpleCore/Preview.png?raw=true)
 
 Welcome to the DIY 3D Printer called SimpleCore!
 
