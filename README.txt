@@ -1,4 +1,4 @@
-![alt text](Images/Preview.jpg?raw=true "Title")
+![alt text](https://github.com/rolohaun/SimpleCore/blob/main/Images/Preview.jpg?raw=true "Title")
 
 Welcome to the DIY 3D Printer called SimpleCore!
 
