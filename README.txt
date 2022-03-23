@@ -1,4 +1,4 @@
-![alt text](Images/Preview.png?raw=true "Title")
+![alt text](Images/Preview.jpg?raw=true "Title")
 
 Welcome to the DIY 3D Printer called SimpleCore!
 
