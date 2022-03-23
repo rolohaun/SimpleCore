@@ -1,3 +1,5 @@
+![alt text](https://github.com/rolohaun/SimpleCore/Preview.png?raw=true)
+
 Welcome to the DIY 3D Printer called SimpleCore!
 
 PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS!
