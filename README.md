@@ -17,7 +17,7 @@ Features:
 - Fully enclosable design
 - Klicky Probe Support
 
-Get Klicky Prone Here
+Get Klicky Probe Here
 https://github.com/jlas1/Klicky-Probe
 
 BOM for 200x200 Build area and 330x330 Build area! (Work in progress!)
