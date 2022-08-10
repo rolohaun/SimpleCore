@@ -1,0 +1,2 @@
+*.f3z filter=lfs diff=lfs merge=lfs -text
+SimpleCore_200.f3z filter=lfs diff=lfs merge=lfs -text
