@@ -5,13 +5,13 @@ SimpleCore 200
 
 ![](Images/Preview.jpg)
 
-PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS!
+PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS! ( I am getting ready to release MK1 which will be the offical completed release )
 
 The goal of this printer is to make a very simple DIY corexy 3D printer than can be built by anyone for the cheapest possible.
 
 Features:
 
-- Simple 2020 Frame only 2 sizes needed, no drilling or taping
+- Simple 2020 Frame only 2 sizes needed, no drilling or tapping
 - EVA Toolhead support, build the printer you want
 - Triple independant Z motors
 - Fully enclosable design
