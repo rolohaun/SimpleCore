@@ -11,9 +11,9 @@ The goal of this printer is to make a very simple DIY corexy 3D printer than can
 
 Features:
 
-- Simple 2020 Frame only 2 sizes needed, no drilling or tapping
-- EVA Toolhead support, build the printer you want
-- Triple independant Z motors
+- Simple frame using standard size 2020 extrusions, no drilling or tapping
+- EVA 2.4 Toolhead support, build the printer you want
+- Triple belted Z motors
 - Fully enclosable design
 - Klicky Probe Support
 
