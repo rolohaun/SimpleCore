@@ -3,7 +3,7 @@ Welcome to the DIY 3D Printer called SimpleCore!
 
 SimpleCore 200
 
-![](Images/Preview.jpg)
+![](Build_Photos/image_readme/Preview.jpg)
 
 PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS! ( I am getting ready to release MK1 which will be the offical completed release )
 
