@@ -1,11 +1,9 @@
-# SimpleCore
-Welcome to the DIY 3D Printer called SimpleCore!
-
-SimpleCore 200
+# SimpleCore Legacy
+This is the old version of SimpleCore called legacy
 
 ![](Build_Photos/image_readme/Preview.jpg)
 
-PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS! ( I am getting ready to release MK1 which will be the offical completed release )
+PLEASE NOTE THIS A OLD VERSION! ( I am getting ready to release MK1 which will be the offical completed release )
 
 The goal of this printer is to make a very simple DIY corexy 3D printer than can be built by anyone for the cheapest possible.
 
