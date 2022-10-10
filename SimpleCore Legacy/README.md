@@ -1,5 +1,5 @@
 # SimpleCore Legacy
-This is the old version of SimpleCore called legacy
+![#f03c15]This is the old version of SimpleCore called legacy`#f03c15`
 
 ![](Build_Photos/image_readme/Preview.jpg)
 
