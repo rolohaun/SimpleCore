@@ -15,7 +15,7 @@ Features:
 - Fully enclosable design
 - Klicky Probe Support
 
-BOM for 200x200 Build area and 330x330 Build area! (Work in progress!)
+BOM for SimpleCore Legacy ( Outdated Design )
 https://docs.google.com/spreadsheets/d/1O3hkrCF_OMRDucAhxMPro0IfUh7aCPbqEiQB7Yf0kRw/edit#gid=0
 
 My Discord
