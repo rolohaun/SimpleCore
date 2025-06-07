@@ -3,7 +3,7 @@
 
 ![](Build_Photos/Preview.png)
 
-功能：
+特性：
 
 - 使用Voron Trident框架
 - Mantis工具头
@@ -17,5 +17,5 @@
 我的 Patreon
 [https://www.patreon.com/rolohaun](https://www.patreon.com/rolohaun)
 
-构建日志
+搭建日志
 [https://www.youtube.com/watch?v=_4NIc2eGpA0&list=PLypdl9fsWkKdIIs_hwjbh7VXXiUZjz-F_](https://www.youtube.com/watch?v=_4NIc2eGpA0&list=PLypdl9fsWkKdIIs_hwjbh7VXXiUZjz-F_)
