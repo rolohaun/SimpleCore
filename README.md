@@ -1,3 +1,9 @@
+> [!WARNING]
+> # 🚨 OUT OF DATE 🚨
+> **This repository is out of date!** The updated printer is here: [SimpleCore on Printables](https://www.printables.com/model/1473500-simplecore)
+
+---
+
 # SimpleCore MK1
 This is the official MK1 SimpleCore Github!
 
